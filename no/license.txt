@@ -1,0 +1,11 @@
+Model Information:
+* title:	東方 Project - Koishi Komeiji fumo V2
+* source:	https://sketchfab.com/3d-models/project-koishi-komeiji-fumo-v2-c92ce552284e4062912b6316c3ee62cb
+* author:	iyanez (https://sketchfab.com/iyanezemail69)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "東方 Project - Koishi Komeiji fumo V2" (https://sketchfab.com/3d-models/project-koishi-komeiji-fumo-v2-c92ce552284e4062912b6316c3ee62cb) by iyanez (https://sketchfab.com/iyanezemail69) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
